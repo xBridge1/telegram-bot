@@ -24,5 +24,5 @@ Built with:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/epicgames-free-bot.git
+git clone https://github.com/xBridge1/telegram-bot.git
 cd epicgames-free-bot
