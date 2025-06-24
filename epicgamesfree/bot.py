@@ -9,7 +9,7 @@ chat_id = None
 
 subscribers = set()
 
-BOT_TOKEN= "7775159703:AAHiHm5kbY6vfZa7_gAnA9mRhJnGxHofReY"
+BOT_TOKEN= ""
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
